@@ -14,6 +14,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
+.font-poppins{
+  font-family: "Poppins","Open Sans", sans-serif;
+}
 .gradient-bg-welcome {
   background-color:#0f0e13;
   background-image: 
